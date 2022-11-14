@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddPostActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="2dp"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/pTitleEt"
+            android:layout_margin="20dp"
+            android:padding="10dp"
+            android:hint="Enter Title"
+            android:singleLine="true"
+            android:background="@drawable/custom_input_field"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"/>
+
+        <ImageView
+            android:id="@+id/pImageIv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/blue"
+            android:minHeight="200dp"
+            />
+
+        <EditText
+            android:id="@+id/pDescriptionEt"
+            android:layout_margin="20dp"
+            android:padding="10dp"
+            android:hint="Enter Description"
+            android:inputType="textCapSentences|textMultiLine"
+            android:minHeight="120dp"
+            android:gravity="start"
+            android:singleLine="true"
+            android:background="@drawable/custom_input_field"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"/>
+
+
+        <Button
+            android:id="@+id/pUploadBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:background="@drawable/custom_button2"
+            android:text="Upload"/>
+
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+</ScrollView>

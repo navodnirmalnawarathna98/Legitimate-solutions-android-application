@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">milestone06</string>
+    <string name="Register">btn_reg</string>
+    <string name="Login">btn_log</string>
+    <string name="btn_log">Login</string>
+    <string name="btn_reg">Register</string>
+    <string name="txt_reg">Register</string>
+    <string name="reg_txt">REGISTER</string>
+    <string name="name_txt">enter your name</string>
+    <string name="regname">Name</string>
+    <string name="email_txt">enter your email</string>
+    <string name="password_txt">enter your password</string>
+    <string name="regpass">Password</string>
+    <string name="cpassword">enter your confirm password</string>
+    <string name="register_btn">Register</string>
+</resources>

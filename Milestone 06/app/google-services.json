@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "974675153365",
+    "firebase_url": "https://uee-fp-sej028-default-rtdb.firebaseio.com",
+    "project_id": "uee-fp-sej028",
+    "storage_bucket": "uee-fp-sej028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974675153365:android:ff074c915addf6b3cead5c",
+        "android_client_info": {
+          "package_name": "com.example.final_project_uee_fp_sej028"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974675153365-u1u3val30blie2kpim93hqg96ei5gvf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcwQ4-NJum2i4Nf2vi3sTU4w9zAb8g4-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974675153365-u1u3val30blie2kpim93hqg96ei5gvf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974675153365:android:49e2f43db420520acead5c",
+        "android_client_info": {
+          "package_name": "com.example.milestone06"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974675153365-u1u3val30blie2kpim93hqg96ei5gvf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcwQ4-NJum2i4Nf2vi3sTU4w9zAb8g4-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974675153365-u1u3val30blie2kpim93hqg96ei5gvf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
