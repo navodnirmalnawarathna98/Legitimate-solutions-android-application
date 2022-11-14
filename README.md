@@ -1,4 +1,3 @@
-# Legitimate-solutions-android-application
 
 <div align="center">
   <a href="">
